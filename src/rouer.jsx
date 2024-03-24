@@ -9,10 +9,10 @@ import Maps from './page/maps/index'
 
 const GetRouters = () => {
     const routes = useRoutes([
-        // {
-        //     path:'/',
-        //     element:<Navigate  to='/maps' />,
-        // },
+        {
+            path:'/',
+            element:<Navigate  to='/maps' />,
+        },
         {
             path: '/charts',
             element:<Charts/>
