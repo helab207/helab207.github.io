@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>material-symbols:event-list-outline-rounded</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(-1768.000000, -280.000000)">
+            <g id="Group-115" transform="translate(1744.000000, 268.000000)">
+                <g id="Group-114" transform="translate(4.000000, 4.000000)">
+                    <g id="material-symbols:event-list-outline-rounded" transform="translate(20.000000, 8.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="material-symbols:event-list-outline-rounded-(Background/Mask)"></g>
+                        <line x1="4" y1="7" x2="10" y2="7" id="Vector-12" stroke="#081226" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" mask="url(#mask-2)"></line>
+                        <line x1="4" y1="17" x2="10" y2="17" id="Vector-13" stroke="#081226" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0,0" mask="url(#mask-2)"></line>
+                        <path d="M15,4 L19,4 C19.5522847,4 20,4.44771525 20,5 L20,9 C20,9.55228475 19.5522847,10 19,10 L15,10 C14.4477153,10 14,9.55228475 14,9 L14,5 C14,4.44771525 14.4477153,4 15,4 Z" id="Rectangle-47" stroke="#081226" stroke-width="1.5" fill="#081226" stroke-linejoin="round" stroke-dasharray="0,0" mask="url(#mask-2)"></path>
+                        <path d="M15,14 L19,14 C19.5522847,14 20,14.4477153 20,15 L20,19 C20,19.5522847 19.5522847,20 19,20 L15,20 C14.4477153,20 14,19.5522847 14,19 L14,15 C14,14.4477153 14.4477153,14 15,14 Z" id="Rectangle-48" stroke="#081226" stroke-width="1.5" fill="#081226" stroke-linejoin="round" stroke-dasharray="0,0" mask="url(#mask-2)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
