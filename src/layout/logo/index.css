@@ -1,0 +1,15 @@
+.logo-text {
+    font-family: Gotham-Regular;
+    font-size: 28px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    font-weight: 400;
+
+}
+.logo-wrapper{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding-left: 40px;
+}

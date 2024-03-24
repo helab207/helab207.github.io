@@ -1,0 +1,54 @@
+.charts-select-wrapper {
+    background-color: #177EE7;
+    border-radius: 16px;
+    width: 32%;
+    height: 100px;
+    display: flex;
+    /* justify-content: center; */
+    align-content: center;
+    align-items: center;
+}
+
+.charts-select-tittle {
+    font-family: Gotham-Medium;
+    font-size: 28px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    font-weight: 500;
+    padding: 5px 0px;
+    cursor: pointer;
+}
+
+.charts-select-tittle :hover{
+
+}
+.hvr-underline-from-center:before{
+    background: #FFF !important;
+}
+
+.charts-sub-chart-wrapper {
+    /* height: 330px; */
+    width: 100%;
+    background-color: #FFF;
+    border-radius: 14px;
+    box-shadow: 0px 8px 16px 0px rgba(90,102,126,0.16);
+    border: 1px solid rgba(207, 220, 228, 1);
+}
+
+
+
+.charts-main-chart-wrapper {
+    /* height: 330px; */
+    width: 100%;
+    background-color: #FFF;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    box-shadow: 0px 8px 16px 0px rgba(90,102,126,0.16);
+    border: 1px solid rgba(207, 220, 228, 1);
+    margin-top: -1px;
+    /* border-top: none; */
+}
+
+.customer-select-wrapper .ant-select-selector{
+    border-radius: 20px;
+}

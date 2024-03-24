@@ -1,0 +1,22 @@
+.custom-menu {
+    color: #FFF;
+    padding: 10px;
+    padding-top: 15px;
+    font-size:28px
+}
+.custom-menu :hover{
+
+}
+
+.custom-menu-content{
+    /* padding: 15px; */
+    cursor: pointer;
+    width: 130px;
+    text-align: center;
+    padding: 10px 0px  10px 0px;
+    display: inline-block;
+}
+.custom-menu-content:hover{
+    font-weight:500;
+    text-shadow: 0px 0px 2px rgb(207 220 228 / 91%);
+}
